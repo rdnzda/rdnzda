@@ -1,86 +1,37 @@
-# Redean Akunzada (rdnzda)
+# Hi, I'm Redean Akunzada 👋
 
-## 🇫🇷 À propos
-Étudiant L2 Ingénierie Informatique (Université d’Orléans) + diplôme RNCP (niveau 5) Développement Web. Je construis mon parcours vers le full‑stack freelance puis l’ingénierie cloud / software. Objectif actuel : développer des projets réels et amorcer une activité freelance parallèle.
+**Third-year Computer Science student (L3) at the University of Orléans, heading into cybersecurity.**
 
-## 🛠️ Stack principale
-JavaScript • Node.js • React / Next.js • Python • SQL • CSS • HTML • Shell  
-En apprentissage : TypeScript • C • Java
+- 🎓 Ranked 4th in my year in L2 (1st in semester 3), plus an RNCP Level 5 web development diploma (OpenClassrooms)
+- 🛡️ Learning cybersecurity on [TryHackMe](https://tryhackme.com/p/rdnzda): Pre Security completed, Cyber Security 101 in progress, SOC Level 1 and Jr Penetration Tester next
+- 🔎 **Looking for a cybersecurity internship from 18 May 2027** (up to 3.5 months), followed by a work-study master's degree (bac+5) in cybersecurity from September 2027
 
-## 📦 Projet mis en avant
-- weatherapp : première application web complète (météo) – amélioration continue.  
-  Repo : https://github.com/rdnzda/weatherapp
+## 🛠️ Skills
 
-## 🤝 Collaboration
-Ouvert à : missions freelance, collaborations open source.  
-Intérêt pour : clean code, privacy, IA éthique.
+| Area | Tools |
+|---|---|
+| Security & networks | Networking fundamentals, web application security (authentication, access control, CSRF protection), Wireshark, virtual machines |
+| Systems | Linux (Ubuntu, terminal, Bash), Windows, Unix system programming |
+| Languages | C, C++, Python, Java, OCaml, SQL, JavaScript, TypeScript |
+| Web | Django, Next.js, React, Node.js / Express, HTML / CSS |
+| Tools | Git / GitHub, Docker (basics), VS Code, IntelliJ |
 
-## ⚽ Hors code
-Fan de football (FC Barcelone).
+## 📦 Featured projects
 
-## 📫 Contact
-LinkedIn : https://fr.linkedin.com/in/redean-akunzada  
-Email : akunzada.redean.pro@gmail.com
-
-## 📊 Statistiques (indicateurs)
-> Note : purement indicatif, privilégier la qualité des contributions.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdnzda&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdnzda&layout=compact&langs_count=8&theme=transparent)
-![Streak](https://streak-stats.demolab.com?user=rdnzda&theme=transparent)
-
-## 🏷️ Badges
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/Framework-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Meta-Next.js-000000?logo=nextdotjs)
-![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/Data-SQL-336791?logo=postgresql&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white)
-![Learning TypeScript](https://img.shields.io/badge/Learning-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Learning C](https://img.shields.io/badge/Learning-C-A8B9CC?logo=c&logoColor=black)
-![Learning Java](https://img.shields.io/badge/Learning-Java-007396?logo=openjdk&logoColor=white)
-![Clean Code](https://img.shields.io/badge/Focus-Clean%20Code-2E8B57)
-![Privacy](https://img.shields.io/badge/Focus-Privacy-000000)
-![Ethical AI](https://img.shields.io/badge/Focus-Ethical%20AI-8A2BE2)
-![Open Source](https://img.shields.io/badge/Contribute-Open%20Source-blue)
-
-> "Crafting code, building dreams."
-
----
-
-## 🇬🇧 About
-Computer Science undergrad (Year 2, University of Orléans) + RNCP Level 5 Web Dev diploma. Building a path toward freelance full‑stack and, long term, cloud & software engineering. Current focus: real-world projects + early freelance.
-
-## 🛠️ Core Stack
-JavaScript • Node.js • React / Next.js • Python • SQL • CSS • HTML • Shell  
-Learning: TypeScript • C • Java
-
-## 📦 Highlight Project
-- weatherapp: first full-featured weather web app (continuous improvement).  
-  Repo: https://github.com/rdnzda/weatherapp
-
-## 🤝 Collaboration
-Open to: freelance missions, open source collaboration.  
-Values: clean code, privacy, ethical AI.
-
-## ⚽ Outside Code
-Football fan (FC Barcelona).
+- **Bonnes Lectures**: a Django book library app with user authentication, access rights and CSRF protection (university project, hosted on the university's Bitbucket)
+- **[Agora360](https://github.com/rdnzda/Agora360)**: a student participation platform (Next.js, PostgreSQL, NextAuth) with hashed passwords, role-based access, sign-up rate limiting and HTTP security headers
+- **[Movie Database](https://github.com/rdnzda/movie-database)**: browse movies and series with the TMDB API ([live demo](https://moviedatabase-eta.vercel.app))
+- **[Weather App](https://github.com/rdnzda/weather-app)**: a weather app with city search, geolocation and 5-day forecasts
 
 ## 📫 Contact
-LinkedIn: https://fr.linkedin.com/in/redean-akunzada  
-Email: akunzada.redean.pro@gmail.com
+
+- LinkedIn: [linkedin.com/in/redean-akunzada](https://www.linkedin.com/in/redean-akunzada/)
+- Email: akunzada.redean.pro@gmail.com
+- Portfolio: [rdnzda.com](https://rdnzda.com)
 
 ## 📊 Stats
-> Indicative only; quality > raw numbers.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdnzda&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdnzda&layout=compact&langs_count=8&theme=transparent)
-![Streak](https://streak-stats.demolab.com?user=rdnzda&theme=transparent)
 
-## 🏷️ Badges
-(Same as FR section above)
-
-> "Crafting code, building dreams."
-
----
+⚽ Outside code: FC Barcelona fan.
